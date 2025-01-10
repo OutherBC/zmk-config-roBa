@@ -73,7 +73,7 @@
 &kp LEFT_WIN  &kp LEFT_ALT  &kp LEFT_SHIFT  &lt 1 LEFT_CONTROL  &lt 2 SPACE  &lt 3 CAPSLOCK          &lt 4 BACKSPACE    &lt 5 ENTER                             &kp ESCAPE
             >;
 
-            sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
+            sensor-bindings = <&inc_dec_kp C_AC_SCROLL_UP C_AC_SCROLL_DOWN>;
         };
 
         FUNCTION {
